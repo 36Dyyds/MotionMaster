@@ -16,7 +16,7 @@ MotionMaster（动作识别大师）是一款基于 Python 的入门级动作识
 
 以下演示视频来源于网络，如有侵权请告知删除！！！
 
-![动作识别](https://gitee.com/qq153128151/MotionMaster/raw/master/output/test/test_zip.jpg)
+![动作识别](https://github.com/36Dyyds/MotionMaster/blob/master/output/test/test_zip.jpg?raw=true)
 
 ## 项目环境
 
