@@ -5,7 +5,7 @@ MotionMaster（动作识别大师）是一款基于 Python 的入门级动作识
 ## 功能特性
 
 1. 动作识别：支持视频动作识别，后续支持图片、摄像头中的动作识别。
-2. 人脸识别：支持图片、视频、摄像头中的人脸识别。可以参考我的另一个项目：<a href="https://gitee.com/qq153128151/FaceMaster">FaceMaster</a>
+2. 人脸识别：支持图片、视频、摄像头中的人脸识别。可以参考我的另一个项目：<a href="https://github.com/36Dyyds/FaceMaster">FaceMaster</a>
 3. 表情识别：包括哀、惊、惧、乐、怒、厌、中七种基本表情。
 
 持续关注本项目后续支持更多实现！！！
